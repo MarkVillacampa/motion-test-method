@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<signatures version='1.0'>
+<class name='NTLMAuth'>
+<method selector='loginToHost:withUsername:andPassword:'>
+<arg declared_type='NSString*' index='0' name='host' type='@'/>
+<arg declared_type='NSString*' index='1' name='username' type='@'/>
+<arg declared_type='NSString*' index='2' name='password' type='@'/>
+<retval declared_type='_Bool' type='B'/>
+</method>
+</class>
+</signatures>
